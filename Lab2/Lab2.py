@@ -1,2 +1,2 @@
-print("Hello GitHub Commit")
+print("Hello GitHub Commit v2")
 
